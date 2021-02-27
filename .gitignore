@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ADDED by Efe. Ignore below project folder(s)
+.vscode 
